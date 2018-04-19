@@ -1,16 +1,11 @@
 . Algoritmos y Estructura de Datos
 
-. Curso.
+. Curso. k1054
 
-. Año de cursada:
+. Año de cursada: 2018
 
-. Numero de equipo.
+. Legajo
 
-. Nombre del Equipo (opcional).
+. Apellido: Chaves
 
-. Integrantes del equipo:
-
-    Usuario Github: cchav92
-    legajo
-    Apellido: Chaves
-    Nombre: Cristian
+. Nombre: Cristian
