@@ -18,9 +18,10 @@ Representacion del algoritmo:
 
 Representacion Visual:
 
+AED/01-Adicion/Representacion visual.jpg
 
 Representacion Textual:
 
-1- leer a
-2- leer b
-3- sumar a+b
+1- leer a.
+2- leer b.
+3- sumar a+b.
