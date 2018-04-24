@@ -10,4 +10,17 @@ Modelo IPO:
 AED/01-Adicion/Modelo IPO.jpg
 
 
+Diseño Solucion:
 
+Lexico: z e Z/ z + z'= z''
+
+Representacion del algoritmo:
+
+Representacion Visual:
+
+
+Representacion Textual:
+
+1- leer a
+2- leer b
+3- sumar a+b
